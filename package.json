@@ -1,0 +1,25 @@
+{
+	"name": "@markbattistella/docsify-sidebarfooter-docs",
+	"version": "4.0.0",
+	"description": "Documentation for @markbattistella/docsify-sidebarFooter",
+	"main": "index.html",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/markbattistella/docsify-sidebarFooter.git"
+	},
+	"author": "Mark Battistella",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/markbattistella/docsify-sidebarFooter/issues"
+	},
+	"homepage": "https://markbattistella.github.io/docsify-sidebarFooter-docs/",
+	"keywords": [
+		"footer",
+		"copyright",
+		"privacy policy",
+		"terms of service",
+		"cookie policy",
+		"docsify",
+		"docsify plugin"
+	]
+}
